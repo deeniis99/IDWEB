@@ -1,0 +1,10 @@
+C:\Users\denis\source\repos\IDWEB4\IDWEB4\bin\Debug\IDWEB4.exe.config
+C:\Users\denis\source\repos\IDWEB4\IDWEB4\bin\Debug\IDWEB4.exe
+C:\Users\denis\source\repos\IDWEB4\IDWEB4\bin\Debug\IDWEB4.pdb
+C:\Users\denis\source\repos\IDWEB4\IDWEB4\obj\Debug\IDWEB4.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\IDWEB4\IDWEB4\obj\Debug\IDWEB4.Form1.resources
+C:\Users\denis\source\repos\IDWEB4\IDWEB4\obj\Debug\IDWEB4.Properties.Resources.resources
+C:\Users\denis\source\repos\IDWEB4\IDWEB4\obj\Debug\IDWEB4.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\IDWEB4\IDWEB4\obj\Debug\IDWEB4.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\IDWEB4\IDWEB4\obj\Debug\IDWEB4.exe
+C:\Users\denis\source\repos\IDWEB4\IDWEB4\obj\Debug\IDWEB4.pdb
