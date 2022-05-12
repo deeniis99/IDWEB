@@ -29,13 +29,13 @@ namespace IDWEB4
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double a, b, c;
+            int a, b, c;
             double disc, deno, x1, x2;
             
 
-            a = Convert.ToDouble(A.Text);
-            b = Convert.ToDouble(B.Text);
-            c = Convert.ToDouble(C.Text);
+            a = Convert.ToInt32(A.Text);
+            b = Convert.ToInt32(B.Text);
+            c = Convert.ToInt32(C.Text);
             x2 = 0;
             x1 = 0;
             if (a == 0)
@@ -68,8 +68,23 @@ namespace IDWEB4
                     
                 }
             }
-            x1r.Text = x1.ToString();
-            x2r.Text = x2.ToString();
+           
+            Class1 con = new Class1();
+            
+            
+            double[] results = con.read(a, b, c);
+            if (results[0] == -99999 && results[1] == -99999)
+            {
+                con.InsertBD(a, b, c, x1, x2);
+                x1r.Text = x1.ToString();
+                x2r.Text = x2.ToString();
+            }
+            else
+            {
+                x1r.Text = results[0].ToString();
+                x2r.Text = results[1].ToString();
+            }
+            
         }
     }
 }
