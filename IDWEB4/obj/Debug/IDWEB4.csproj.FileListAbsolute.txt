@@ -8,3 +8,13 @@ C:\Users\denis\source\repos\IDWEB4\IDWEB4\obj\Debug\IDWEB4.csproj.GenerateResour
 C:\Users\denis\source\repos\IDWEB4\IDWEB4\obj\Debug\IDWEB4.csproj.CoreCompileInputs.cache
 C:\Users\denis\source\repos\IDWEB4\IDWEB4\obj\Debug\IDWEB4.exe
 C:\Users\denis\source\repos\IDWEB4\IDWEB4\obj\Debug\IDWEB4.pdb
+C:\Users\Blade\source\repos\IDWeb_GIT\IDWEB4\bin\Debug\IDWEB4.exe.config
+C:\Users\Blade\source\repos\IDWeb_GIT\IDWEB4\bin\Debug\IDWEB4.exe
+C:\Users\Blade\source\repos\IDWeb_GIT\IDWEB4\bin\Debug\IDWEB4.pdb
+C:\Users\Blade\source\repos\IDWeb_GIT\IDWEB4\obj\Debug\IDWEB4.csproj.AssemblyReference.cache
+C:\Users\Blade\source\repos\IDWeb_GIT\IDWEB4\obj\Debug\IDWEB4.Form1.resources
+C:\Users\Blade\source\repos\IDWeb_GIT\IDWEB4\obj\Debug\IDWEB4.Properties.Resources.resources
+C:\Users\Blade\source\repos\IDWeb_GIT\IDWEB4\obj\Debug\IDWEB4.csproj.GenerateResource.cache
+C:\Users\Blade\source\repos\IDWeb_GIT\IDWEB4\obj\Debug\IDWEB4.csproj.CoreCompileInputs.cache
+C:\Users\Blade\source\repos\IDWeb_GIT\IDWEB4\obj\Debug\IDWEB4.exe
+C:\Users\Blade\source\repos\IDWeb_GIT\IDWEB4\obj\Debug\IDWEB4.pdb

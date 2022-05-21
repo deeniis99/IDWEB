@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace IDWEB4
 {
-    class Class1
+    class Database
     {
         /* SqlConnection conect;
          public SqlConnection connect()

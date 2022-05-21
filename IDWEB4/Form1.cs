@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -62,14 +63,14 @@ namespace IDWEB4
                 }
                 else
                 {
-                    
-                    x1 = -b / deno;
-                    x2 = ((Math.Sqrt((4 * a * c) - (b * b))) / deno);
-                    
+                    string[] complexNumber = Backend.SolveQuadratic(a, b, c);
+                    x1r.Text = complexNumber[0];
+                    x2r.Text = complexNumber[1];
+
                 }
             }
            
-            Class1 con = new Class1();
+            Database con = new Database();
             
             
             double[] results = con.read(a, b, c);
@@ -84,7 +85,12 @@ namespace IDWEB4
                 x1r.Text = results[0].ToString();
                 x2r.Text = results[1].ToString();
             }
-            
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
